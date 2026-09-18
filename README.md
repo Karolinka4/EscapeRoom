@@ -3,7 +3,7 @@
 **Autor:** Karolina Sumowska  
 **Uczelnia:** Uniwersytet Mikołaja Kopernika w Toruniu  
 **Kierunek:** Informatyka  
-**Temat pracy inżynierskiej:** Gra VR na gogle Meta Quest 3 z użyciem silnika Unity
+**Temat pracy inżynierskiej:** Projekt i implementacja interaktywnego doświadczenia wirtualnej rzeczywistości w formie „escape roomu” w środowisku Unity na urządzenia Meta Quest 3
 
 ---
 
@@ -12,7 +12,12 @@
 Projekt stanowi grę VR opracowaną w ramach pracy inżynierskiej, zbudowaną w silniku **Unity 2022.3.40f1 (LTS)**. Aplikacja jest uruchamiana przy pomocy gogli **Meta Quest 3** połączonych z komputerem przy użyciu aplikacji **Meta Quest Link**.
 
 ---
+## Film na YouTube
+Link: https://youtu.be/radFlIf2wII
+---
+## Wizualizacja proejktu:
 
+---
 ## Wymagania
 
 - **Unity**: Wersja `2022.3.40f1 (LTS)`
@@ -69,9 +74,6 @@ Na etapie rozwoju projektu możliwe jest szybkie testowanie poszczególnych scen
     W razie problemów z brakującymi zależnościami, porównaj plik `Packages/manifest.json` z oryginalnym repozytorium lub użyj `Unity Package Manager`, aby ręcznie zainstalować brakujące paczki.
 
 ---
-
-## Film na YouTube
-Link: https://youtu.be/radFlIf2wII
 
 **Karolina Sumowska**  
 Rok: 2025  
