@@ -70,6 +70,9 @@ Na etapie rozwoju projektu możliwe jest szybkie testowanie poszczególnych scen
 
 ---
 
+## Film na YouTube
+Link: https://youtu.be/radFlIf2wII
+
 **Karolina Sumowska**  
 Rok: 2025  
 Uniwersytet Mikołaja Kopernika w Toruniu  
