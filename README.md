@@ -15,8 +15,44 @@ Projekt stanowi grę VR opracowaną w ramach pracy inżynierskiej, zbudowaną w 
 ## Film na YouTube
 **Link: https://youtu.be/radFlIf2wII**
 
+
 ## Wizualizacja projektu
 
+<p align="center">
+  <img
+    src="https://github.com/user-attachments/assets/1c565b71-c255-428d-bb89-c15660c9548a"
+    alt="Wizualizacja projektu"
+    width="690"
+  >
+</p>
+
+<p align="center">
+  ←
+  <a href="https://github.com/user-attachments/assets/1c565b71-c255-428d-bb89-c15660c9548a">1</a>
+  •
+  <a href="https://github.com/user-attachments/assets/600d2635-42af-42fc-af1f-3f6c3cfc5316">2</a>
+  •
+  <a href="https://github.com/user-attachments/assets/c5cadf6c-12e1-472d-a3eb-d1390b956fe0">3</a>
+  •
+  <a href="https://github.com/user-attachments/assets/2c99ae31-e9a0-4b35-a73e-c32fbf649635">4</a>
+  •
+  <a href="https://github.com/user-attachments/assets/fb886ef2-b4c6-447f-9cef-3148a7a78ca2">5</a>
+  •
+  <a href="https://github.com/user-attachments/assets/d57e8d78-1326-460f-9938-c4a6e30d80dc">6</a>
+  •
+  <a href="https://github.com/user-attachments/assets/bd4ed5ad-601a-470b-a9ef-7f3fe2ee132a">7</a>
+  •
+  <a href="https://github.com/user-attachments/assets/ca3c7a7f-f794-4ea4-9d81-eb0273853e16">8</a>
+  •
+  <a href="https://github.com/user-attachments/assets/b40451af-9203-4e3d-8dce-0de505fca80b">9</a>
+  •
+  <a href="https://github.com/user-attachments/assets/6e9f8091-773b-4f16-a12c-31ec020219a9">10</a>
+  •
+  <a href="https://github.com/user-attachments/assets/ae1bc9d8-0118-4f8c-8522-60f3c8a18a44">11</a>
+  •
+  <a href="https://github.com/user-attachments/assets/ebc557f9-5d59-4e65-aa79-cd22a8413676">12</a>
+  →
+</p>
 ---
 ## Wymagania
 
