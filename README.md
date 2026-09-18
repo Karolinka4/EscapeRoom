@@ -13,9 +13,9 @@ Projekt stanowi grę VR opracowaną w ramach pracy inżynierskiej, zbudowaną w 
 
 ---
 ## Film na YouTube
-Link: https://youtu.be/radFlIf2wII
----
-## Wizualizacja proejktu:
+**Link: https://youtu.be/radFlIf2wII**
+
+## Wizualizacja projektu
 
 ---
 ## Wymagania
